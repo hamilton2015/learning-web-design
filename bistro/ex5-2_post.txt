@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <article>
 <header>
   <p>posted by BGB,<time datetime="2012-11-15" pubdate> November 15, 2012</time></p>
@@ -12,3 +14,4 @@
 
   <p> <small>Warning: Sous vide cooked salmon is not pasteurized. Avoid it if you are pregnant or have immunity issues.</small></p>
 </article>
+</html>
